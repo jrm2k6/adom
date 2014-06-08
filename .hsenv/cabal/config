@@ -1,0 +1,9 @@
+remote-repo: hackage.haskell.org:http://hackage.haskell.org/packages/archive
+remote-repo-cache: /Users/jrm2k6/.cabal/packages
+logs-dir: /Users/jrm2k6/Documents/Programming/adom/.hsenv/cabal/logs
+world-file: /Users/jrm2k6/Documents/Programming/adom/.hsenv/cabal/world
+package-db: /Users/jrm2k6/Documents/Programming/adom/.hsenv/ghc_pkg_db
+build-summary: /Users/jrm2k6/Documents/Programming/adom/.hsenv/cabal/logs/build.log
+remote-build-reporting: anonymous
+install-dirs user
+  prefix: /Users/jrm2k6/Documents/Programming/adom/.hsenv/cabal
