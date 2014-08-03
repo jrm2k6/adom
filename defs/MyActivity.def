@@ -1,1 +1,2 @@
 activity MyDogActivity
+	extra string myString
